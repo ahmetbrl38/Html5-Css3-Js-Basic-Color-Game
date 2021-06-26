@@ -1,0 +1,72 @@
+* {
+
+margin: 0px; padding: 0px;
+
+}
+
+body{
+
+font-family: "Open Sans",sans-serif;
+height: 100%;
+overflow: hidden;
+
+}
+
+#game {
+
+width: 408px;
+margin: auto;
+margin-top: 50px;
+
+}
+
+#game div{
+
+width: 200px;
+height: 200px;
+float: left;
+border: 2px solid #fff;
+border-radius: 20px;
+
+}
+
+.kirmizi{
+
+background: #E26464;
+
+}
+
+.mavi{
+
+background: #66ADE3;
+    
+}
+
+.sari{
+
+background: #E2DE64;
+        
+}
+
+.yesil{
+
+background: #86E264;
+            
+}
+
+
+#puan{
+
+padding: 10px 10px;
+font-size: 20px;
+padding-left: 180px;
+padding-top: 20px;
+cursor: pointer;
+
+}
+
+.point{
+
+background: lightcoral;
+
+}
